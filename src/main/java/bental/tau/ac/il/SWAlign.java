@@ -1,4 +1,5 @@
 package bental.tau.ac.il;
+
 //--------------------------------------------------------------------------------------------------
 // 
 // Description: Implementation of Smith-Waterman local alignment.
